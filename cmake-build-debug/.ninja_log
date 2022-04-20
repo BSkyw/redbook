@@ -1,0 +1,25 @@
+# ninja log v5
+2	457	6721472735144953	CMakeFiles/vermilion.dir/lib/gl3w.c.obj	457acd58c6eeec9a
+14	948	6721462634163245	CMakeFiles/vermilion.dir/lib/targa.cpp.obj	9c3a3b7742a5d41c
+12	1203	6721462636716398	CMakeFiles/vermilion.dir/lib/LoadShaders.cpp.obj	ad06db6d541a5708
+13	793	6721464265380177	CMakeFiles/01-triangles.dir/src/01-triangles/01-triangles.cpp.obj	16d60a71810b86
+22	941	6721462634093422	CMakeFiles/vermilion.dir/lib/vermilion.cpp.obj	3042234d8215383f
+17	952	6721462634203137	CMakeFiles/vermilion.dir/lib/loadtexture.cpp.obj	29249fcd340abce2
+24	971	6721462634392623	CMakeFiles/01-keypress.dir/src/01-keypress/01-keypress.cpp.obj	88a61978b1d21063
+19	1133	6721462636008302	CMakeFiles/vermilion.dir/lib/vbm.cpp.obj	e9ea13258c9029b8
+20	916	6721474623922824	lib/glfw/src/CMakeFiles/glfw.dir/init.c.obj	63b3e0532bda31ac
+27	954	6721474624371636	lib/glfw/src/CMakeFiles/glfw.dir/win32_tls.c.obj	3c17a15c799b65b8
+23	997	6721474624790517	lib/glfw/src/CMakeFiles/glfw.dir/winmm_joystick.c.obj	cc6b16af2ac9cdc2
+18	1046	6721474625349013	lib/glfw/src/CMakeFiles/glfw.dir/context.c.obj	4439ad3d6ff18762
+35	1047	6721474625388907	lib/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	f7d21aeb02b0c2d3
+25	1103	6721474625967362	lib/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	bc54e4531a9ee396
+111	1139	6721474626316425	lib/glfw/src/CMakeFiles/glfw.dir/window.c.obj	a861087bf1775251
+115	1219	6721474627134236	lib/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	82d11f9f87c0098
+47	1220	6721474627154188	lib/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	62e7ab7fe63567f0
+29	1225	6721474627204059	lib/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	312c0632b0f67857
+40	1233	6721474627283843	lib/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	3a9ed4bd4769a21b
+95	1266	6721474627602972	lib/glfw/src/CMakeFiles/glfw.dir/input.c.obj	d1658b85dc1f5e33
+1266	1400	6721474628949384	lib/libglfw3_d.a	59c6c868eb4653ff
+3	583	6721477064152965	CMakeFiles/vermilion.dir/lib/vdds.cpp.obj	3f3c4a0da9360375
+584	641	6721477064595860	lib/libvermilion_d.a	382afb5c230fbb2d
+641	767	6721477065951708	../bin/01-triangles_d.exe	d6216edb79effb5e

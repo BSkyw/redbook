@@ -585,6 +585,8 @@ void vglLoadDDS(const char* filename, vglImageData* image)
 
     fread(&file_header, sizeof(file_header.magic) + sizeof(file_header.std_header), 1, f);
 
+    done_close_file:
+        fclose(f);
     if (file_header.magic != DDS_MAGIC)
     {
         goto done_close_file;
@@ -642,8 +644,6 @@ void vglLoadDDS(const char* filename, vglImageData* image)
         depth >>= 1;
     }
 
-done_close_file:
-    fclose(f);
 }
 
 }
